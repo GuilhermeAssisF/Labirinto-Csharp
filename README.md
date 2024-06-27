@@ -14,4 +14,4 @@ buscarQueijo(char[,] meuLab, int i, int j): Esta função é a principal do jogo
 Para executar o jogo, basta chamar a função Main na classe LabirintodoRato. Esta função inicializa o labirinto, exibe-o na tela, e então inicia a busca pelo queijo. O resultado da busca será exibido no console.
 
 # Video Explicando o Projeto
-https://youtu.be/q8l2TjQ9_Y4
+https://youtu.be/zi9kQTUNvWI
